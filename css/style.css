@@ -44,29 +44,29 @@
 
  a {
     cursor: pointer;
-    color: #1abc9c;
+    color: #ffb84d;
     text-decoration: none;
  }
 
  a:hover {
     text-decoration:none;
-    color: #1abc9c;
+    color: #ffb84d;
     opacity: 0.9;
  }
 
  hr {
-    border-top: 5px solid #1abc9c;
+    border-top: 5px solid #ffb84d;
     width: 80px;
     padding-bottom: 20px;
  }
 
 
  .colour-splash {
-    color: #1abc9c;
+    color: #ffb84d;
  }
 
  .section-primary span {
-    color: #1abc9c;
+    color: #ffb84d;
     font-weight: bolder;
     opacity: 1;
  }
@@ -82,7 +82,7 @@
  * =================================================================== */
 
  .section-image {
- 	background: #151515 url(https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?dpr=2&auto=compress,format&crop=entropy&fit=crop&w=1199&h=799&q=80) no-repeat center center;
+ 	background: #151515 url(https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fredkiteprayer.com%2Fwp-content%2Fuploads%2F2013%2F10%2FCorsica-Mountain-Road.jpg&f=1,format&crop=entropy&fit=crop&w=1199&h=799&q=80) no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -124,7 +124,7 @@
 }
 
 .intro h5 {
-    color: #1abc9c;
+    color: #ffb84d;
     font-size: 2.3rem;
     margin-bottom: 0;
     text-transform: uppercase;
@@ -211,11 +211,11 @@ section {
 }
 
 .section-primary {
-    border: #1abc9c;
+    border: #ffb84d;
 }
 
 .section-colour {
-    background-color: #1abc9c;
+    background-color: #ffb84d;
     color: #fff;
 }
 
@@ -247,7 +247,7 @@ section {
 }
 
 #skills {
-    background: #151515 url(https://images.unsplash.com/photo-1456983933114-c22026990f4b?dpr=2&auto=format&crop=entropy&fit=crop&w=1280&h=720&q=80) no-repeat center center;
+    background: #151515 url(https://c.wallhere.com/photos/31/48/nature_photography_landscape_hiking_mountains_dry_grass_mist_shrubs-12008.jpg!d?auto=format&crop=entropy&fit=crop&w=1280&h=720&q=80) no-repeat center center;
     background-attachment: fixed;
 }
 
